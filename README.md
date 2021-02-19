@@ -1,11 +1,11 @@
-# password-gen
-Password Generator
-![Horiseon Token](assets/images/readme-token.png)
 
-# cu-hw-01-horiseon
+Password Generator
+![SCREENSHOT](assets/screenshot.png)
+
+# password-gen
 
 ## :newspaper: Description 
-The following files contain the assets necessary to deploy a functional website for Horiseon Social Solutions. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5. Images have been tagged with alternative text to ensure site accessibility.
+The following files contain the assets necessary to deploy a functional password generator. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5.
 
 ## :bookmark_tabs: Table of Contents 
 
@@ -26,8 +26,8 @@ To use this site for your own website or your client's website, follow these ste
     7. Save and deploy to your domain<br>
 
 ## :floppy_disk: Usage
-![screenshot of Horiseon site](assets/images/screenshot-2.png) <br>
-This site is a clean landing page and accurately represents Horiseon's core values and strategy in a well-defined way. There is a navigation row at the top of the page that makes navigating the site very easy. Three pillars of Horiseon's business model are emphasized with relevant photos in the main area of the page, and a sidebar also emphasizes other focus points that Horiseon has to offer. 
+![screenshot of website](assets/screenshot.png) <br>
+This site features a slidebar that allows users to choose how long they want their password to be. This site also allows users to check if they would like to include uppercase letters, numbers, and special characters into their password. 
 
 ## :card_index: Credits 
 
