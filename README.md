@@ -1,6 +1,6 @@
 
 Password Generator
-![SCREENSHOT](assets/screenshot.png)
+![SCREENSHOT](screenshot.png)
 
 # password-gen
 
@@ -26,7 +26,7 @@ To use this site for your own website or your client's website, follow these ste
     7. Save and deploy to your domain<br>
 
 ## :floppy_disk: Usage
-![screenshot of website](assets/screenshot.png) <br>
+![screenshot of website](screenshot.png) <br>
 This site features a slidebar that allows users to choose how long they want their password to be. This site also allows users to check if they would like to include uppercase letters, numbers, and special characters into their password. 
 
 ## :card_index: Credits 
