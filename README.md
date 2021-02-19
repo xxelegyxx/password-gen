@@ -27,7 +27,11 @@ To use this site for your own website or your client's website, follow these ste
 
 ## :floppy_disk: Usage
 ![screenshot of website](screenshot.png) <br>
-This site features a slidebar that allows users to choose how long they want their password to be. This site also allows users to check if they would like to include uppercase letters, numbers, and special characters into their password. 
+This site features a slidebar that allows users to choose how long they want their password to be. <br>
+
+This site also allows users to check if they would like to include uppercase letters, numbers, and special characters into their password. <br>
+
+Finally, this site allows the user to "copy" the new password! <br>
 
 ## :card_index: Credits 
 
